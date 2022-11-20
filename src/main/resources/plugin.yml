@@ -1,0 +1,4 @@
+name: NightVision
+version: '${project.version}'
+main: nightvision.nightvision.main
+api-version: 1.18

@@ -1,0 +1,4 @@
+name: NightVision
+version: '1.0-SNAPSHOT'
+main: nightvision.nightvision.main
+api-version: 1.18
